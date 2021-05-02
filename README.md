@@ -6,4 +6,7 @@
 
 ## Vision Transformer
 [CrossViT: Cross-Attention Multi-Scale Vision Transformer for ImageClassification](https://arxiv.org/pdf/2103.14899.pdf), [[code]](https://github.com/lucidrains/vit-pytorch)
+[CrossViT: Cross-Attention Multi-Scale Vision Transformer for ImageClassification](https://arxiv.org/pdf/2103.14899.pdf), [[code]](https://github.com/lucidrains/vit-pytorch)
 
+
+ANIMAGE ISWORTH16X16 WORDS:TRANSFORMERS FORIMAGERECOGNITION ATSCALE
